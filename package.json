@@ -47,5 +47,5 @@
     "prepublish": "gulp prepublish",
     "test": "gulp"
   },
-  "license": "gpl-3.0"
+  "license": "apache-2.0"
 }
